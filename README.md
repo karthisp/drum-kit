@@ -8,7 +8,7 @@ Just a cute drum kit
 
 ## Resources
 * freeCodeCamp
-* Colourhubt
+* Colorhunt [link](https://colorhunt.co/)
 
 ## Links
 * Drum kit [Link](https://karthisp.github.io/drum-kit/)
